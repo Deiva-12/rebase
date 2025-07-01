@@ -8,3 +8,6 @@ name = "kasi"
 print("Name the person",name)
 print("Complated")
 print("Value of c",c)
+X = c - addtion
+print("Value of x",X)
+

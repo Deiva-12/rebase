@@ -1,4 +1,4 @@
-a = 240
+a = 40
 b = 15
 addtion = a+b
 print("Addtion of a+b",
